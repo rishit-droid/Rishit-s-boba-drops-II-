@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: rgba(240, 98, 55, 0.822);
+    color:black;
+}
+
+hr {
+    border: none;
+    height: 1px; 
+    background-color: black;
+}
+
+ul {
+    text-align: left;
+    display: inline-block;
+}
+
+footer {
+    display:block;
+    unicode-bidi: isolate;
+}
